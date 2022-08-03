@@ -7,6 +7,8 @@
       >@enBonnet</a
     >
     practicing <a alt="svelte page" href="https://svelte.dev">Svelte</a>.
+
+    <a alt="repository url" href="https://github.com/enBonnet/top-hacker-news">Github repository</a>.
   </div>
 </footer>
 
