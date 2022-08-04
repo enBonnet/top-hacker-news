@@ -1,5 +1,5 @@
 {
-  "extends": ["config:base", ":preserveSemverRanges", "group:allNonMajor"],
+  "extends": ["config:base", ":preserveSemverRanges", "group:allNonMajor", ":dependencyDashboard"],
   "pin": false,
   "ignoreDeps": ["esbuild", "typescript"]
 }
